@@ -8,10 +8,12 @@ align-items: center;
 }
 .euzinha{
     width: 350px;
-background-color: bisque;
+background-color: rgba(255, 228, 196, 0.851);
 border-radius: 25px;
 text-align: center;
 padding: 60px 60px;
 margin-top: 120px;
-
+}
+h1{
+    color: deeppink;
 }
