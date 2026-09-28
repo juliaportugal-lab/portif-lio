@@ -1,6 +1,6 @@
 body{
 background-image: url("pinterest\ julia.jpg");
-background-size: 35%;
+background-size: 34%;
 display: grid;
 text-align: center;
 justify-content: center;
@@ -16,4 +16,10 @@ margin-top: 120px;
 }
 h1{
     color: deeppink;
+}
+p{
+    color: blue;
+}
+footer{
+    color: purple;
 }
