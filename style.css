@@ -6,6 +6,22 @@ text-align: center;
 justify-content: center;
 align-items: center;
 }
+a p{
+    background-color: rgb(248, 43, 43);
+    width: 150px;
+    padding: 15px 0;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+    margin: 15px auto;
+}
+a p:hover{
+    background-color: rgb(198, 10, 255);
+transform: scale(1.2);
+}
 .euzinha{
     width: 350px;
 background-color: rgba(255, 228, 196, 0.851);
