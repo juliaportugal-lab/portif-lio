@@ -4,5 +4,5 @@ function site(){
 
     nome = prompt("Qual é o nome?");
  mostrar = document.getElementById('mostrar');
- mostrar.innerHTML = `<p>Olá! ${nome}! Seja bem-vindo!</p>`; 
+ mostrar.innerHTML = `<p>Olá, <mark>${nome}!</mark> Seja bem-vindo!</p>`; 
 }
