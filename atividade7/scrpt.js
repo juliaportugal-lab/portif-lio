@@ -9,6 +9,6 @@ function aleatorio() {
     mostrar.innerHTML = `<p> Acabei de pensar no número ${num}.</p>`;
     
     if (num == 67){
-        alert("voce farmou muita aura");
+        alert("voce farmou muita aura, papai sigma da bahia está orgulhoso");
     }
 }
